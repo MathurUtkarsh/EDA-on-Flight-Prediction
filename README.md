@@ -1,4 +1,4 @@
-**# EDA on Flight Prediction**
+# **EDA on Flight Prediction**
 
 "EDA on Flight Prediction" is a project that focuses on exploratory data analysis of flight data to predict the prices of flights between different cities. The project involves the use of machine learning algorithms to build a model that predicts the price of a flight based on historical data.
 
